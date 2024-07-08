@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of the Contact Form](./screenshot.jpg)
+![Screenshot of the Contact Form](./contactForm.png")
 
 ### Links
 
